@@ -1,9 +1,0 @@
-../Core/Src/main.c:42:6:GPIO_Init_Register	1
-../Core/Src/main.c:66:6:Timer4_PWM_Init_Register	1
-../Core/Src/main.c:83:6:UART6_Init_Register	1
-../Core/Src/main.c:101:6:UART6_Print	3
-../Core/Src/main.c:109:6:motor_control	3
-../Core/Src/main.c:133:6:PID_control	45
-../Core/Src/main.c:310:5:main	1
-../Core/Src/main.c:350:6:SystemClock_Config	3
-../Core/Src/main.c:388:6:Error_Handler	1
