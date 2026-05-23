@@ -1,0 +1,9 @@
+../Core/Src/main.c:42:6:GPIO_Init_Register	4	static
+../Core/Src/main.c:66:6:Timer4_PWM_Init_Register	4	static
+../Core/Src/main.c:83:6:UART6_Init_Register	4	static
+../Core/Src/main.c:101:6:UART6_Print	16	static
+../Core/Src/main.c:109:6:motor_control	16	static
+../Core/Src/main.c:133:6:PID_control	216	static
+../Core/Src/main.c:310:5:main	8	static
+../Core/Src/main.c:350:6:SystemClock_Config	88	static
+../Core/Src/main.c:388:6:Error_Handler	4	static,ignoring_inline_asm
